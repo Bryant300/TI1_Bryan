@@ -33,5 +33,6 @@ h1 {
     justify-content: center;
     align-items: center;
     border-radius: 30px;
-    font-
+    text-transform: uppercase;
+    opacity: 75%;
 }
