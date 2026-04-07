@@ -1,2 +1,3 @@
 <?php
-const ROOT_PATH
+const ROOT_PATH = __DIR__;
+const ARRAY_VALID_PAGES = ['contact','culture','galerie','geographie','histoire','liens',]
