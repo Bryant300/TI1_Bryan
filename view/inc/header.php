@@ -4,11 +4,12 @@
     <link rel="stylesheet" href="css/style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Histoire</title>
+    <title>header</title>
 </head>
 <body>
-    <?php include ROOT_PATH."/view/inc/menu.php";
- ?>
-    <h1>Histoire</h1>
+      <div class="banner">
+        <h1>Berlin</h1>
+      </div>
+   
 </body>
 </html>

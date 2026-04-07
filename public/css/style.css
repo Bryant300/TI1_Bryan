@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+
+}
+
+nav {}
+
+div {
+    display: flex;
+}
+
+.banner {
+    background-image: url("/img/banniere.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+}
