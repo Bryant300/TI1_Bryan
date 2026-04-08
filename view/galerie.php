@@ -10,7 +10,7 @@
 
 <div class="wrapper">
  <?php include ROOT_PATH."/view/inc/menu.php"?>
-<div class="contenu-page">
+    <div class="contenu-page">
 
     <h2 class="titre-page">Galerie photographique</h2>
     <div class="galerie-grille">
@@ -27,7 +27,7 @@
             <p>Vue d'Athènes depuis la colline de l'Acropole</p>
         </div>
 
-        <div class="">
+        <div class="galerie-image">
             <a href=""
                data-lightbox=""
                data-title="">
@@ -76,6 +76,7 @@
         </div>
 
     </div>
+
 </div>
 </div>
   </body>
