@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <link rel="stylesheet" href="css/style.css">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
 <nav class="navigation" id="navigation">
 
     <button class="burger-btn" id="burger-btn" aria-label="Ouvrir le menu">
