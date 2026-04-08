@@ -97,6 +97,8 @@ body {
   margin-bottom: 20px;
   padding-bottom: 20px;
   text-align: justify;
+  margin-top: 20px;
+
 }
 
 .titre-page {
@@ -345,6 +347,17 @@ body {
 
 
 @media screen and (min-width: 640px) {
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .contenu-page {
+    width: 100%;
+    justify-content: center;
+  }
+
   .conteneur {
     flex-direction: column;
   }
@@ -371,7 +384,6 @@ body {
 
   }
 
-  .wrapper {}
 
   .nav-liste li {
     flex: 1;
