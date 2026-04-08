@@ -23,7 +23,7 @@
                 <img src="img\480px-Berlin_reichstag_CP.jpg"
                      alt="">
             </a>
-            <p>Vue d'Athènes depuis la colline de l'Acropole</p>
+            <p></p>
         </div>
 
         <div class="galerie-image">
