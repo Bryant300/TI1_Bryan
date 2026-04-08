@@ -353,6 +353,10 @@ body {
     display: none;
   }
 
+  .navigation {
+    display: inline;
+  }
+
   .nav-liste {
     display: flex;
     flex-direction: row;
@@ -363,6 +367,7 @@ body {
     border-radius: 10px;
     background-color: lightgrey;
     overflow: hidden;
+    margin-bottom: 5px;
 
   }
 
