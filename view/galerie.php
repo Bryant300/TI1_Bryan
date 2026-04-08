@@ -10,6 +10,7 @@
 
 <div class="wrapper">
  <?php include ROOT_PATH."/view/inc/menu.php"?>
+ 
     <div class="contenu-page">
 
     <h2 class="titre-page">Galerie photographique</h2>
