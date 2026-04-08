@@ -345,6 +345,17 @@ body {
 
 /*media querry*/
 
+@media screen and (min-width: 480px) {
+  .contenu-page {
+    width: 90%;
+    margin: 20px auto;
+  }
+
+  burger-btn {
+    width: 200px;
+    margin: 10px auto;
+  }
+}
 
 @media screen and (min-width: 640px) {
   body {
