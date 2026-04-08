@@ -4,20 +4,35 @@
     <link rel="stylesheet" href="css/style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>menu</title>
+    
 </head>
+<nav class="navigation" id="navigation">
 
-    <nav>
-    <button class="menu-toggle">☰</button>
-    <ul class="nav-links">
-        <li><a href="./">Accueil</a></li> 
-        <li><a href="./?p=geographie">Géographie</a></li>
-        <li><a href="./?p=culture">Culture</a></li>
-        <li><a href="./?p=galerie">Galerie</a></li>
-        <li><a href="./?p=contact">Contact</a></li>
-        <li><a href="./?p=liens">Liens</a></li>
+    <button class="burger-btn" id="burger-btn" aria-label="Ouvrir le menu">
+        <span class="burger-barre"></span>
+        <span class="burger-barre"></span>
+        <span class="burger-barre"></span>
+    </button>
 
+    <ul class="nav-liste" id="nav-liste">
+        <li><a href="./"              class="nav-lien">Accueil</a></li>
+        <li><a href="./?p=geographie" class="nav-lien">Géographie</a></li>
+        <li><a href="./?p=histoire"   class="nav-lien">Histoire</a></li>
+        <li><a href="./?p=culture"    class="nav-lien">Culture</a></li>
+        <li><a href="./?p=galerie"    class="nav-lien">Galerie</a></li>
+        <li><a href="./?p=contact"    class="nav-lien">Contact</a></li>
+        <li><a href="./?p=liens"      class="nav-lien">Liens</a></li>
     </ul>
-</nav>
 
-</html>
+</nav>
+<script>const burger = document.getElementById("burger-btn");
+const navListe = document.getElementById("nav-liste");
+
+burger.addEventListener("click", function () {
+  if (navListe.classList.contains("ouvert")) {
+    navListe.classList.remove("ouvert");
+  } else {
+    navListe.classList.add("ouvert");
+  }
+});
+</script>
