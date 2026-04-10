@@ -4,13 +4,13 @@
     <link rel="stylesheet" href="css/style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Accueil</title>
+    <title> <?= ucfirst("Accueil") ?> </title>
 </head>
   
   
 <body>
     
- <?php include ROOT_PATH."/view/inc/header.php" ?>;
+ <?php include ROOT_PATH."/view/inc/header.php" ?>
  <div class="wrapper">
  <?php include ROOT_PATH."/view/inc/menu.php"?>
 <div class="contenu-page">

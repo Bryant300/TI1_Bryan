@@ -460,7 +460,7 @@ body {
   }
 
   .galerie-image {
-    width: calc(50% - 10px);
+    width: calc(33.33% - 13.33px);
   }
 
   .wrapper {
