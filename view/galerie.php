@@ -23,6 +23,7 @@
                 <img src="img\480px-Berlin_reichstag_CP.jpg"
                      alt="Berlin - Reichstag">
             </a>
+            <p></p>
             <p>Berlin - Reichstag</p>
         </div>
 
