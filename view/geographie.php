@@ -27,6 +27,7 @@ La ville de Berlin se situe dans le Nord-Est de l’Allemagne, dans la plaine ge
 La topographie berlinoise a été fortement influencée par la dernière ère glaciaire, et par la glaciation saalienne et la glaciation vistulienne qui a dessiné la vallée proglaciaire de Varsovie-Berlin qui traverse le land d'est en ouest entre le plateau de Barnim au nord et le plateau de Teltow au sud.
 
 La capitale allemande possède un climat semi-continental, caractérisé par une amplitude plus importante qu'en climat océanique (plus à l'ouest) entre des hivers modérément froids et relativement secs et des étés assez chauds et orageux. Les précipitations tombent d'ailleurs majoritairement durant la saison estivale. Le record de chaleur est de 38,1 °C le 11 juillet 1959 et le record de froid de −26 °C le 11 février 1929. La température moyenne annuelle est de 9,7 °C.
+    </p>
 </div>
 </div>
   </body>

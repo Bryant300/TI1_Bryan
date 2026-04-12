@@ -19,6 +19,7 @@ body {
 
 .entete {
   width: 100%;
+  padding: 20px;
 }
 
 .banniere {
@@ -112,6 +113,8 @@ body {
   line-height: 50px;
   border-radius: 10px 10px 0 0;
   margin-bottom: 20px;
+  border: 2px solid black;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .contenu-page p,
@@ -206,15 +209,15 @@ body {
 }
 
 .galerie-image {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  width: 100%;
 }
 
 .galerie-image img {
   width: 100%;
-  max-width: 480px;
+  height: 250px;
+  /* hauteur fixe */
   object-fit: cover;
+  /* recadre l'image sans déformation */
   border: 2px solid black;
 }
 
@@ -381,7 +384,8 @@ body {
     display: inline;
   }
 
-  .nav-liste {
+  .nav-liste,
+  .nav-liste.ouvert {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -392,7 +396,6 @@ body {
     background-color: lightgrey;
     overflow: hidden;
     margin-bottom: 5px;
-
   }
 
 

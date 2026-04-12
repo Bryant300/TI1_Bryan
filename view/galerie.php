@@ -17,59 +17,58 @@
        
 
         <div class="galerie-image">
-            <a href=""
+            <a href="img/480px-Berlin_reichstag_CP.jpg"
                data-lightbox="galerie"
                data-title="Berlin - Reichstag">
-                <img src="img\480px-Berlin_reichstag_CP.jpg"
+                <img src="img/480px-Berlin_reichstag_CP.jpg"
                      alt="Berlin - Reichstag">
             </a>
-            <p></p>
             <p>Berlin - Reichstag</p>
         </div>
 
         <div class="galerie-image">
-            <a href=""
+            <a href="img/480px-Berlin-Charlottenburg_Theater_des_Westens_05-2014.jpg"
                data-lightbox="galerie"
                data-title="Berlin - Charlottenburg - Theater des Westens">
-                <img src="img\480px-Berlin-Charlottenburg_Theater_des_Westens_05-2014.jpg"
+                <img src="img/480px-Berlin-Charlottenburg_Theater_des_Westens_05-2014.jpg"
                      alt="Berlin - Charlottenburg - Theater des Westens">
             </a>
             <p>Berlin - Charlottenburg - Theater des Westens</p>
         </div>
 
         <div class="galerie-image">
-            <a href=""
+            <a href="img/480px-Bode_Musem_Berlin.jpg"
                data-lightbox="galerie"
                data-title="Berlin - Bode Museum">
-                <img src="img\480px-Bode_Musem_Berlin.jpg"
+                <img src="img/480px-Bode_Musem_Berlin.jpg"
                      alt="Berlin - Bode Museum">
             </a>
             <p>Berlin - Bode Museum</p>
         </div>
 
         <div class="galerie-image">
-            <a href=""
+            <a href="img/480px-Braniborská_brána.jpg"
                data-lightbox="galerie"
                data-title="Berlin - Landgericht">
-                <img src="img\480px-Braniborská_brána.jpg"
+                <img src="img/480px-Braniborská_brána.jpg"
                      alt="Berlin - Landgericht">
             </a>
             <p>Berlin - Landgericht</p>
         </div>
  <div class="galerie-image">
-            <a href=""
+            <a href="img/480px-Dom_Berlin_abends.jpg"
                data-lightbox="galerie"
                data-title="Berlin - Dom">
-                <img src="img\480px-Dom_Berlin_abends.jpg"
+                <img src="img/480px-Dom_Berlin_abends.jpg"
                      alt="Berlin - Dom">
             </a>
             <p>Berlin - Dom</p>
         </div>
         <div class="galerie-image">
-            <a href=""
+            <a href="img/480px-Landgericht_Berlin.jpg"
                data-lightbox="galerie"
                data-title="Berlin - Landgericht">
-                <img src="img\480px-Landgericht_Berlin.jpg"
+                <img src="img/480px-Landgericht_Berlin.jpg"
                      alt="Berlin - Landgericht">
             </a>
             <p>Berlin - Landgericht</p>

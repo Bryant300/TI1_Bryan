@@ -18,7 +18,7 @@
     <h2 class="titre-page">Culture</h2>
 
     <div class="img-centree">
-        <img src="img/culture.jpg" alt="Culture et art à Athènes">
+        <img src="img/culture.jpg" alt="Culture et art à Berlin">
     </div>
 
 <p>Après la chute du mur de Berlin en 1989, de nombreuses maisons partiellement détruites pendant la Seconde Guerre mondiale et pas encore reconstruites se retrouvèrent au centre de Berlin. Elles se situaient dans le quartier de Mitte, qui faisait partie de Berlin-Est. Ces lieux abandonnés en plein centre-ville attirèrent beaucoup d'artistes et ils devinrent le sol fertile pour toutes sortes de cultures underground et autres contre-cultures. Des clubs s'y installèrent y compris le célèbre « Tresor », un des clubs techno les plus importants au monde.
