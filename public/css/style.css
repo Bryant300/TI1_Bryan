@@ -471,3 +471,28 @@ body {
     flex-direction: row;
   }
 }
+
+/* ── Lightbox : bouton de fermeture (croix) ── */
+.lb-close {
+  display: block;
+  width: 36px;
+  height: 36px;
+  line-height: 36px;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  background-color: #a90331;
+  border-radius: 50%;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.2s;
+}
+
+.lb-close::after {
+  content: '×';
+}
+
+.lb-close:hover {
+  background-color: #7a0224;
+}

@@ -1,10 +1,13 @@
+<!DOCTYPE html>
+<html lang="fr">
 <head>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/lightbox.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> <?= ucfirst("Galerie") ?> </title>
 </head>
-  <body>
+<body>
   <?php include ROOT_PATH."/view/inc/header.php" ?>
 <div class="wrapper">
  <?php include ROOT_PATH."/view/inc/menu.php"?>
@@ -13,8 +16,6 @@
 
     <h2 class="titre-page">Galerie photographique</h2>
     <div class="galerie-grille">
-
-       
 
         <div class="galerie-image">
             <a href="img/480px-Berlin_reichstag_CP.jpg"
@@ -55,7 +56,8 @@
             </a>
             <p>Berlin - Landgericht</p>
         </div>
- <div class="galerie-image">
+
+        <div class="galerie-image">
             <a href="img/480px-Dom_Berlin_abends.jpg"
                data-lightbox="galerie"
                data-title="Berlin - Dom">
@@ -64,6 +66,7 @@
             </a>
             <p>Berlin - Dom</p>
         </div>
+
         <div class="galerie-image">
             <a href="img/480px-Landgericht_Berlin.jpg"
                data-lightbox="galerie"
@@ -78,5 +81,6 @@
 
 </div>
 </div>
-  </body>
-
+    <script src="js/lightbox-plus-jquery.js"></script>
+</body>
+</html>

@@ -2,6 +2,7 @@
 <html lang="fr">
 <head>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/lightbox.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> <?= ucfirst("Contact") ?> </title>
@@ -54,4 +55,5 @@
     </form>
 </div>
 </div>
+    <script src="js/lightbox-plus-jquery.js"></script>
 </body>
