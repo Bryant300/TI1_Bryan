@@ -62,7 +62,7 @@ Aujourd'hui, Berlin doit faire face à de graves difficultés financières, mais
 </li>
         <li>        le Musée de la RDA
         </li>
-        <li>les Musées de Berlin-Dahlem :
+        <li>les Musées de Berlin-Dahlem 
         </li>
         <li>le Musée ethnologique
         </li>
@@ -91,50 +91,50 @@ Aujourd'hui, Berlin doit faire face à de graves difficultés financières, mais
     <p>Enfin, Berlin est aussi une référence pour le cinéma avec l'accueil chaque année en février de la Berlinale, festival international de cinéma dont la récompense suprême est l'Ours d'or.</p>
      <h3>Quelques films se déroulant à Berlin :</h3>
     <ul>
-        <li>Berlin, symphonie d'une grande ville (Berlin: Die Sinfonie der Großstadt) (1927), film muet de Walter Ruttmann ;
+        <li>Berlin, symphonie d'une grande ville (Berlin: Die Sinfonie der Großstadt) (1927), film muet de Walter Ruttmann 
         </li>
-        <li>Ventres glacés Kuhle Wampe oder: Wem gehört die Welt? (1932), sur la Kuhle Wampe ;
+        <li>Ventres glacés Kuhle Wampe oder: Wem gehört die Welt? (1932), sur la Kuhle Wampe 
         </li>
-        <li>Allemagne année zéro (Germania anno zero) de Roberto Rossellini (1948) ;
+        <li>Allemagne année zéro (Germania anno zero) de Roberto Rossellini (1948) 
         </li>
-        <li>Un, deux, trois (One, Two, Three), une comédie satirique de Billy Wilder (1961) ;</li>
-        <li>La Légende de Paul et Paula (Die Legende von Paul und Paula) de Heiner Carow (1972), film culte de la RDA ;</li>
-        <li>Les Ailes du désir (Der Himmel über Berlin) de Wim Wenders (1987) ;</li>
-        <li>Herr Lehmann (2003) de Leander Haußmann, sur le quartier du Kreuzberg en 1989 ;</li>
-        <li>Cours, Lola, cours (Lola rennt) de Tom Tykwer (1998) ;</li>
-        <li>Sonnenallee de Leander Haußmann (1999) ;
+        <li>Un, deux, trois (One, Two, Three), une comédie satirique de Billy Wilder (1961) </li>
+        <li>La Légende de Paul et Paula (Die Legende von Paul und Paula) de Heiner Carow (1972), film culte de la RDA </li>
+        <li>Les Ailes du désir (Der Himmel über Berlin) de Wim Wenders (1987) </li>
+        <li>Herr Lehmann (2003) de Leander Haußmann, sur le quartier du Kreuzberg en 1989 </li>
+        <li>Cours, Lola, cours (Lola rennt) de Tom Tykwer (1998) </li>
+        <li>Sonnenallee de Leander Haußmann (1999) 
         </li>
-        <li>Berlin is in Germany (2001) et One day in Europe de Hannes Stöhr ;
+        <li>Berlin is in Germany (2001) et One day in Europe de Hannes Stöhr 
         </li>
-        <li>Good Bye, Lenin! de Wolfgang Becker (2002) ;
+        <li>Good Bye, Lenin! de Wolfgang Becker (2002) 
         </li>
-        <li>Liegen lernen de Hendrik Handloegten (2003) ;
+        <li>Liegen lernen de Hendrik Handloegten (2003) 
         </li>
-        <li>La Mort dans la peau (The Bourne Supremacy) de Paul Greengrass, notamment sur Alexanderplatz (2004) ;
+        <li>La Mort dans la peau (The Bourne Supremacy) de Paul Greengrass, notamment sur Alexanderplatz (2004) 
         </li>
-        <li>La Chute (Der Untergang) d'Oliver Hirschbiegel (2004) ;
+        <li>La Chute (Der Untergang) d'Oliver Hirschbiegel (2004) 
         </li>
-        <li>The Edukators (Die Fetten Jahre sind vorbei) de Hans Weingartner (2005) ;
+        <li>The Edukators (Die Fetten Jahre sind vorbei) de Hans Weingartner (2005) 
         </li>
-        <li>Un été à Berlin (Sommer vorm Balkon) d'Andreas Dresen (2005) ;
+        <li>Un été à Berlin (Sommer vorm Balkon) d'Andreas Dresen (2005) 
         </li>
-        <li>La Vie des autres (Das Leben der Anderen) de Florian Henckel von Donnersmarck (2007) ;
+        <li>La Vie des autres (Das Leben der Anderen) de Florian Henckel von Donnersmarck (2007) 
         </li>
-        <li>Walkyrie (Valkyrie) de Bryan Singer (2008) ;
+        <li>Walkyrie (Valkyrie) de Bryan Singer (2008) 
         </li>
-        <li>Berlin Calling de Hannes Stöhr (2008) ;
+        <li>Berlin Calling de Hannes Stöhr (2008) 
         </li>
-        <li>Wetlands (Feuchtgebiete) de David Wnendt (2008) ;
+        <li>Wetlands (Feuchtgebiete) de David Wnendt (2008) 
         </li>
-        <li>Sans identité (Unknown) de Jaume Collet-Serra (2011) ;
+        <li>Sans identité (Unknown) de Jaume Collet-Serra (2011) 
         </li>
-        <li>Oh Boy de Jan-Ole Gerster (2012) ;
+        <li>Oh Boy de Jan-Ole Gerster (2012) 
         </li>
-        <li>Victoria de Sebastian Schipper (2015) ;
+        <li>Victoria de Sebastian Schipper (2015) 
         </li>
-        <li>Le Pont des espions (Bridge of Spies) de Steven Spielberg (2015) ;
+        <li>Le Pont des espions (Bridge of Spies) de Steven Spielberg (2015) 
         </li>
-        <li>Berlin Syndrome de Cate Shortland (2017) ;
+        <li>Berlin Syndrome de Cate Shortland (2017) 
         </li>
     </ul>
 </div>
