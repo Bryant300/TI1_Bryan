@@ -9,6 +9,8 @@
     <title>Error404</title>
 </head>
 <body class="error404">
-   <img src="img/404.jpg" alt="">
+   <h1>Page introuvable</h1>
+<img src="img/404.jpg" alt="Erreur 404">
+<p><a href="./">Retour à l’accueil</a></p>
 </body>
 </html>

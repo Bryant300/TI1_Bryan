@@ -22,31 +22,33 @@
         <img src="img/contacts.jpg" alt="Nous contacter">
     </div>
 
-    <form action="#" method="post" class="formulaire">
+    <p>Formulaire de démonstration : aucun message n’est envoyé.</p>
+    <p id="contact-feedback" role="status"></p>
+    <form action="#" method="post" class="formulaire" id="contact-demo">
 
         <div class="form-ligne">
             <label for="nom">Nom :</label>
-            <input type="text" id="nom" name="nom" placeholder="Votre nom">
+            <input type="text" id="nom" name="nom" required placeholder="Votre nom">
         </div>
 
         <div class="form-ligne">
             <label for="prenom">Prénom :</label>
-            <input type="text" id="prenom" name="prenom" placeholder="Votre prénom">
+            <input type="text" id="prenom" name="prenom" required placeholder="Votre prénom">
         </div>
 
         <div class="form-ligne">
             <label for="email">E-mail :</label>
-            <input type="email" id="email" name="email" placeholder="votre@email.com">
+            <input type="email" id="email" name="email" required placeholder="votre@email.com">
         </div>
 
         <div class="form-ligne">
             <label for="sujet">Sujet :</label>
-            <input type="text" id="sujet" name="sujet" placeholder="Sujet de votre message">
+            <input type="text" id="sujet" name="sujet" required placeholder="Sujet de votre message">
         </div>
 
         <div class="form-ligne">
             <label for="message">Message :</label>
-            <textarea id="message" name="message" placeholder="Votre message..."></textarea>
+            <textarea id="message" name="message" required placeholder="Votre message..."></textarea>
         </div>
 
         <div class="form-bouton">
@@ -57,4 +59,7 @@
 </div>
 </div>
     <script src="js/lightbox-plus-jquery.js"></script>
+<script src="js/contact.js" defer></script>
 </body>
+
+</html>
