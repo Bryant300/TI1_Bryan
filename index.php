@@ -1,5 +1,3 @@
 <?php
- 
-header("location: public");
- 
+header('Location: public/');
 exit;

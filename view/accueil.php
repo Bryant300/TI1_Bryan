@@ -58,3 +58,5 @@ Berlin est une ville mondiale culturelle et artistique de premier plan. La ville
 </div>
     <script src="js/lightbox-plus-jquery.js"></script>
 </body>
+
+</html>

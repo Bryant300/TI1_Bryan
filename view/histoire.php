@@ -136,3 +136,5 @@ La plupart des monuments importants, endommagés depuis la guerre, ont été rec
 </div>
     <script src="js/lightbox-plus-jquery.js"></script>
 </body>
+
+</html>

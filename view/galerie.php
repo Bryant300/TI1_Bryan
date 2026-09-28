@@ -19,7 +19,7 @@
     <div class="galerie-grille">
 
         <div class="galerie-image">
-            <a href="img/480px-Berlin_reichstag_CP.jpg"
+            <a href="img/1280px-Berlin_reichstag_CP.jpg"
                data-lightbox="galerie"
                data-title="Berlin - Reichstag">
                 <img src="img/480px-Berlin_reichstag_CP.jpg"
@@ -29,7 +29,7 @@
         </div>
 
         <div class="galerie-image">
-            <a href="img/480px-Berlin-Charlottenburg_Theater_des_Westens_05-2014.jpg"
+            <a href="img/1280px-Berlin-Charlottenburg_Theater_des_Westens_05-2014.jpg"
                data-lightbox="galerie"
                data-title="Berlin - Charlottenburg - Theater des Westens">
                 <img src="img/480px-Berlin-Charlottenburg_Theater_des_Westens_05-2014.jpg"
@@ -39,7 +39,7 @@
         </div>
 
         <div class="galerie-image">
-            <a href="img/480px-Bode_Musem_Berlin.jpg"
+            <a href="img/1280px-Bode_Musem_Berlin.jpg"
                data-lightbox="galerie"
                data-title="Berlin - Bode Museum">
                 <img src="img/480px-Bode_Musem_Berlin.jpg"
@@ -49,7 +49,7 @@
         </div>
 
         <div class="galerie-image">
-            <a href="img/480px-Braniborská_brána.jpg"
+            <a href="img/1280px-Braniborská_brána.jpg"
                data-lightbox="galerie"
                data-title="Berlin - Landgericht">
                 <img src="img/480px-Braniborská_brána.jpg"
@@ -59,7 +59,7 @@
         </div>
 
         <div class="galerie-image">
-            <a href="img/480px-Dom_Berlin_abends.jpg"
+            <a href="img/1280px-Dom_Berlin_abends.jpg"
                data-lightbox="galerie"
                data-title="Berlin - Dom">
                 <img src="img/480px-Dom_Berlin_abends.jpg"
@@ -69,7 +69,7 @@
         </div>
 
         <div class="galerie-image">
-            <a href="img/480px-Landgericht_Berlin.jpg"
+            <a href="img/1280px-Landgericht_Berlin.jpg"
                data-lightbox="galerie"
                data-title="Berlin - Landgericht">
                 <img src="img/480px-Landgericht_Berlin.jpg"

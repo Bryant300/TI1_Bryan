@@ -141,3 +141,4 @@ Aujourd'hui, Berlin doit faire face à de graves difficultés financières, mais
 </div>
     <script src="js/lightbox-plus-jquery.js"></script>
 </body>
+</html>
